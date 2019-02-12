@@ -1,3 +1,8 @@
+##################
+## Dependencies ##
+##################
+
+
 Following are the libraries that should be installed prior of code execution:
 
 1) nltk
@@ -10,9 +15,11 @@ Following are the libraries that should be installed prior of code execution:
 8) re
 9) operator
 
-Run command:
+#############################
+## Steps to run the code ####
+#############################
 
-Execute the following command in the terminal to run the .py files
-python <filename>.py
+1) Execute the following command in the terminal to run the .py files
+    python <filename>.py
 
-Run the .ipynb files in jupyter notebook
+2) Run the .ipynb files in jupyter notebook
